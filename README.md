@@ -1,5 +1,10 @@
 # rstudio
 
+## R Version
+```
+R version 4.1.1
+```
+
 ## コンテナ起動
 ```sh
 $ docker-compose up -d
